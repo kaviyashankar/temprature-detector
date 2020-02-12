@@ -1,0 +1,2 @@
+# temprature-detector
+Temperature measurement is also known as thermometry, describes the process of measuring local temperature for immediate or later evaluation. The temperature of the air near the surface of the Earth is measured at meteorological observatories and weather stations. The world’s average surface air temperature is about 14 degree Celsius.  DS18B20 Sensor is used in this project for detection of temperature.
